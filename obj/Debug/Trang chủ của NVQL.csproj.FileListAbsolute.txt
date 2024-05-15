@@ -1,0 +1,18 @@
+D:\PTUD\Trang chủ của NVQL\Trang chủ của NVQL\bin\Debug\Trang chủ của NVQL.exe.config
+D:\PTUD\Trang chủ của NVQL\Trang chủ của NVQL\bin\Debug\Trang chủ của NVQL.exe
+D:\PTUD\Trang chủ của NVQL\Trang chủ của NVQL\bin\Debug\Trang chủ của NVQL.pdb
+D:\PTUD\Trang chủ của NVQL\Trang chủ của NVQL\obj\Debug\Trang chủ của NVQL.csproj.AssemblyReference.cache
+D:\PTUD\Trang chủ của NVQL\Trang chủ của NVQL\obj\Debug\Trang chủ của NVQL.csproj.SuggestedBindingRedirects.cache
+D:\PTUD\Trang chủ của NVQL\Trang chủ của NVQL\obj\Debug\Trang_chủ_của_NVQL.cgvquan3.resources
+D:\PTUD\Trang chủ của NVQL\Trang chủ của NVQL\obj\Debug\Trang_chủ_của_NVQL.Properties.Resources.resources
+D:\PTUD\Trang chủ của NVQL\Trang chủ của NVQL\obj\Debug\Trang chủ của NVQL.csproj.GenerateResource.cache
+D:\PTUD\Trang chủ của NVQL\Trang chủ của NVQL\obj\Debug\Trang chủ của NVQL.csproj.CoreCompileInputs.cache
+D:\PTUD\Trang chủ của NVQL\Trang chủ của NVQL\obj\Debug\Trang chủ của NVQL.exe
+D:\PTUD\Trang chủ của NVQL\Trang chủ của NVQL\obj\Debug\Trang chủ của NVQL.pdb
+D:\PTUD\Trang chủ của NVQL\Trang chủ của NVQL\obj\Debug\Trang_chủ_của_NVQL.cgvquan3phim.resources
+D:\PTUD\Trang chủ của NVQL\Trang chủ của NVQL\obj\Debug\Trang_chủ_của_NVQL.cgvquan3qlkh.resources
+D:\PTUD\Trang chủ của NVQL\Trang chủ của NVQL\obj\Debug\Trang_chủ_của_NVQL.cgvquan3qllc.resources
+D:\PTUD\Trang chủ của NVQL\Trang chủ của NVQL\obj\Debug\Trang_chủ_của_NVQL.cgvquan3doimk.resources
+D:\PTUD\Trang chủ của NVQL\Trang chủ của NVQL\obj\Debug\Trang_chủ_của_NVQL.cgvquan3qlkhdkp.resources
+D:\PTUD\Trang chủ của NVQL\Trang chủ của NVQL\obj\Debug\Trang_chủ_của_NVQL.cgvquan3qllcxoa.resources
+D:\PTUD\Trang chủ của NVQL\Trang chủ của NVQL\obj\Debug\Trang_chủ_của_NVQL.cgvquan3qllcthem.resources
